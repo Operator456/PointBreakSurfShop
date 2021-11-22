@@ -1,1 +1,1 @@
-# PointBreakSurfShop
+# This program lets you purchase surfboards from Point Break's Surf Shop. You can Buy any surfboard in any size and in any quanity, show the total number of surfboards of each size sold, and show the total money made at anytime. Choose up to 4 different sizes of surfboards, I modified this code and added an extra fourth size known as xlarge with the highest price of $250.00
